@@ -16,6 +16,8 @@ The Pomodoro technique is a method of time management that suggesets working in 
 5. **If you have fewer than four checkmarks at the end of they cycle**, take a short break of 3 to 5 minutes, and return to step 2. *Otherwise* continue to step 6. 
 6. **AFter four cycles** take a longer break of 15 to 30 minutes. Then reset your checkmark count to zero and return to step 1. 
 
+[The project can be seen live here](https://wisniewskiz.github.io/pomodoro/)
+
 ### Technologies Used
 - HTML 5
 - Flexbox
